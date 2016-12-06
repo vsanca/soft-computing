@@ -10,4 +10,4 @@ Repository for storing and sharing solutions, experiments and showcase snippets 
   * level 0 - seek and count red dots in images
   * level 1 - seek, count and sum digits in images: MNIST+noise+different background for MNIST set
   * level 2 - seek, count and sum digits in images: MNIST+noise+same background as MNIST set
-  * level 3 - seek and count digits that have crossed line in video: MNIST+noise+same background as MNIST set+video+line
+  * level 3 - seek and count digits that have crossed the line in video: MNIST+noise+same background as MNIST set+video+line
